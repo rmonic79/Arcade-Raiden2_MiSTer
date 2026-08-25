@@ -1,0 +1,16 @@
+db/
+output_files/
+incremental_db/
+
+# generati a runtime nella root
+build_id.v
+c5_pin_model_dump.txt
+jtag.cdf
+serv_req_info.txt
+*.qdf
+*.log
+
+# ROM: mai nel repo
+Rom/
+*.zip
+*.7z
